@@ -1,4 +1,4 @@
-### python-exercises
+### Python Exercise
 
 Sample examples of basic Python learning. It also includes some dummy projects like:
 

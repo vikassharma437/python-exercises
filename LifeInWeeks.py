@@ -1,8 +1,5 @@
-#Don't change the code below 👇
 age = input("What is your current age?")
-#Don't change the code above 👆
 
-#Write your code below this line 👇
 if(len(age) == 2):
     if(age.isnumeric()):
         total_age = 90
